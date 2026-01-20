@@ -28,6 +28,8 @@ Rails.application.routes.draw do
 resources :students
 resources :libraries
 resources :tasks
+
+resources :vehicals
 # resources :Students
 
 end

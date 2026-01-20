@@ -115,6 +115,7 @@ GEM
       tzinfo
     ffi (1.17.3-x64-mingw-ucrt)
     ffi (1.17.3-x86_64-linux-gnu)
+    fiddle (1.1.8)
     fugit (1.12.1)
       et-orbi (~> 1.4)
       raabro (~> 1.4)
@@ -366,6 +367,7 @@ DEPENDENCIES
   bundler-audit
   capybara
   debug
+  fiddle
   image_processing (~> 1.2)
   importmap-rails
   jbuilder
